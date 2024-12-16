@@ -4,7 +4,7 @@
 
 ## Project setup ⚙️ 🤖
 
-```
+
 
 ## Installation ⬇️ 🕹️
 Here are the steps you need to follow to install the dependencies.
@@ -47,4 +47,4 @@ yarn dev
 
 ```
 
-```
+
