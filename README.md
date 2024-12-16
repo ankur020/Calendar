@@ -1,8 +1,50 @@
-# React + Vite
+# Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### [✨ Visit Website]()🌐
 
-Currently, two official plugins are available:
+## Project setup ⚙️ 🤖
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+
+## Installation ⬇️ 🕹️
+Here are the steps you need to follow to install the dependencies.
+
+1. clone the repository.
+```
+
+git clone https://github.com/ankur020/Calendar
+
+```
+
+2. Run this command to install all the dependencies
+
+```
+
+npm install
+
+```
+or
+
+```
+
+yarn install
+
+```
+
+3. Now run this command to start the developement server
+
+```
+
+npm run dev
+
+```
+
+or
+
+```
+
+yarn dev
+
+```
+
+```
